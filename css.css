@@ -1,5 +1,16 @@
 body
 {
-    background-image: url("m.png");
-    background-size: cover;
+    background-image: url("4.jpg");
+    background-repeat: no-repeat;
+}
+
+.Box
+{
+    width: 300px;
+    height: 500px;
+    position:absolute;
+    margin-top:15%;
+    border-radius: 30px;
+    background-image: linear-gradient(to right,rgb(230, 123, 230),rgb(101, 188, 228));
+    
 }
